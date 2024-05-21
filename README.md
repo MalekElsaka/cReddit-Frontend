@@ -1,21 +1,23 @@
-# IDS Documentation  
-### Component
-    * id = "specifed name" 
-        - Explaination
-### NotificationItem.jsx
-         
-    * Notification Options button ID = "notification-item-dropdown-button" 
-                                     - Pressing on this button displays a dropdown list that gives the user the option to hide the notification
-    * Hide Notification button ID = "notification-item-hide-notification-button"
-                                  - Pressing on this button removes the associated notification from the current list of notifications  
+# cReddit: A Reddit Clone
 
-### PasswordRecovery.jsx
-         
-    * New Password Input ID = "password_recovery_new_password"
-                            - This is where the user types in their new password
-    * Confirm Password Input ID = "password_recovery_confirm_password"
-                                - This is where the user retypes the password to check for correctness
-    * Continue Button ID = "password_recovery_submit"
-                         - Clicking on this button enforces the password change (not implemented yet)
-                                
-### DEV OPS TEST 
+## Introduction
+
+Welcome to cReddit, a fully functional Reddit clone developed by our dedicated team of developers at SS-LTD. This project aimed to replicate the core functionalities of Reddit, including user authentication, posting, commenting, voting, and subreddits. Our goal was to create a seamless user experience with a modern and intuitive design, ensuring accessibility across multiple platforms.
+
+## Project Links
+
+- [**Website**](https://creddit.tech/)
+- [**Mobile App**](https://github.com/SS-Ltd/cReddit-CrossPlatform/releases/tag/V3.0.1)
+
+## Team and Contributions
+
+### Frontend Team 🎨
+- Ahmed Abdelaal
+- Bassel Mohamed
+- Malek Elsaka (Team Leader)
+- Marwan Abbas
+- Mohamed Heggi
+
+## Methodology
+
+We utilized the Agile methodology throughout the development process to ensure that we stayed on track, adapted to challenges, and continuously improved our application.
